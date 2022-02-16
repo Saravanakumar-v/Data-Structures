@@ -1,6 +1,7 @@
-# Data Structures
- My journey throught the hardest part of an programming language
+# Data Structures 101
+ My journey throught the hardest part of an programming language 😬
  
-Language used: C++ 
+Language used: C++, Python
+
 Concepts covered:
- * Algorithm Analysis
+ 1. Algorithm Analysis
