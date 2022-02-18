@@ -4,4 +4,4 @@
 Language used: C++, Python
 
 Concepts covered:
- 1. .
+ 1. References and Pointers
