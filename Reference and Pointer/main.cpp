@@ -31,9 +31,6 @@ int main() {
 
     int sizeOf = sizeof(arr)/sizeof(arr[0]);
 
-    int value = 5;
-    int result = factorial(value);
-    cout<<result<<endl;
     vectorTranverse(v);     // call vectorTranverse() function
     cout<<endl;
 
